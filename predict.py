@@ -21,4 +21,4 @@ def is_this_hate_message(message):
         return False
 
 if __name__ == '__main__':
-	print(is_this_hate_message("seni sikerim"))
+	print(is_this_hate_message("seni öldürürüm"))
